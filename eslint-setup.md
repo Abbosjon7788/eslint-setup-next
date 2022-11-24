@@ -1,3 +1,5 @@
+!!! Eslint and Prettier extensions should be installed in your vs code !!!
+
 1. npx create-next-app@latest your_app_name (without typescript)
 2. npx eslint --init
 3. your custom .eslint.json like this
